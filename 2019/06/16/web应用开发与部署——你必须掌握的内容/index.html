@@ -181,7 +181,7 @@
 <li>如果有离线包（offline 能力需要对应的客户端 webview 支持）等，需要单独一个目录。</li>
 </ul>
 <p>对于我们目前的项目而言，一般情况下会有三个生成目录：</p>
-<figure class="highlight haml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">-<span class="ruby"> cdn</span></span><br><span class="line"><span class="ruby"></span>-<span class="ruby"> offline <span class="comment"># 需要客户端支持该能力</span></span></span><br><span class="line"><span class="ruby"></span>-<span class="ruby"> webserver</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight ldif"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="literal">-</span> cdn</span><br><span class="line"><span class="literal">-</span> offline <span class="comment"># 需要客户端支持该能力</span></span><br><span class="line"><span class="literal">-</span> webserver</span><br></pre></td></tr></table></figure>
 
 <p>如果一开始我们把所有内容生成到一个目录中了，这给我们后期的改动和维护，都带来很大的隐患。</p>
 <h4 id="组件库"><a href="#组件库" class="headerlink" title="组件库"></a>组件库</h4><p>组件库这一部分，适合项目开始变得复杂的情况下进行启动，而不建议一开始进行过渡设计，建设组件库能够通过组件复用降低我们的开发成本，同时，组件库也需要专人维护，保持更新。</p>
