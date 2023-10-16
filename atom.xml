@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AirCloud 日常</title>
-  <icon>https://www.gravatar.com/avatar/2f58f77d5b516b291563686ed164bd51</icon>
+  <icon>https://www.gravatar.com/avatar/8cad2e6a4f45a5247e6b8998e37f6e1a</icon>
   <subtitle>Keep Recording⏺️</subtitle>
   <link href="https://yanhengliu.github.io/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>卷毛 Yanheng Liu</name>
-    <email>onlythen@yeah.net</email>
+    <email>fireh121@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
