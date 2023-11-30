@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>卷毛Blog</title>
+  <title>Goose&#39;s Blog</title>
   <icon>https://www.gravatar.com/avatar/8cad2e6a4f45a5247e6b8998e37f6e1a</icon>
   <subtitle>Keep Recording⏺️</subtitle>
   <link href="https://yanhengliu.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://yanhengliu.github.io/</id>
   
   <author>
-    <name>卷毛 Yanheng Liu</name>
+    <name>Goose</name>
     <email>fireh121@163.com</email>
   </author>
   
